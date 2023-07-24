@@ -122,7 +122,7 @@ footer {
 }
 
 .footerTitle {
-    margin-top: 100px;
+    padding-top: 3%;
     display: block;
     text-align: center;
     color: white;
@@ -132,8 +132,8 @@ footer {
 
 .footerContent {
     font-size: 24px;
-    margin-top: 32px;
-    margin-bottom: 32px;
+    padding-top: .25%;
+    padding-bottom: .25%;
     font-family: 'Montserrat';
 }
 
