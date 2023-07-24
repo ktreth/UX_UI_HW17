@@ -117,6 +117,7 @@ footer {
     bottom: 0px;
     text-align: center;
     color: white;
+    position: fixed;
 }
 
 .footerTitle {
