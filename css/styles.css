@@ -116,7 +116,6 @@ footer {
     bottom: 0px;
     text-align: center;
     color: white;
-    position: fixed;
 }
 
 .footerTitle {
@@ -157,5 +156,4 @@ html, body {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    overflow: hidden;
 }
