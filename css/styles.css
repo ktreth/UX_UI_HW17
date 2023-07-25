@@ -60,12 +60,12 @@ a {
 .hero {
     display: block;
     height: 600px;
-    width: 50%;
+    width: 45%;
     margin: auto;
 }
 .heroimage {
     float: right;
-    padding: 25px;
+    padding-top: 5%;
 }
 
 .image {
@@ -76,8 +76,7 @@ a {
 .content {
     width: 390px;
     text-align: left;
-    padding: 25px;
-    margin-top: 150px;
+    padding-top: 5%;
     font-size: 18px;
 }
 
@@ -145,7 +144,7 @@ footer {
 }
 
 .socialmedia {
-    margin-top: 74px;
+    margin-top: 3%;
     padding: 1%;
 }
 
