@@ -58,7 +58,9 @@ a {
 }
 
 .hero {
-    display: block;
+    display: flexbox;
+    grid-template-columns: 50% 50%;
+    flex-direction: column-reverse;
     height: 600px;
     width: 45%;
     margin: auto;
